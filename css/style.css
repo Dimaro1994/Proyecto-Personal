@@ -1,6 +1,13 @@
+
+
 @import "./fonts.css";
+
+@import "./colors.css";
 
 @import "./stylescommons.css";
 
+@import "./header.css";
 
+@import "./main-menu.css";
 
+@import "./aside.css";
