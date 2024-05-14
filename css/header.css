@@ -14,8 +14,8 @@ header img{
 }
 
 header h1{
-    color: aquamarine;
+    color: rgb(53, 98, 63);
     font-size: 50px;
     margin: 0;
-    text-shadow: 2px 2px 5px #ccc;
+    text-shadow: 2px 2px 5px #767373;
 }
