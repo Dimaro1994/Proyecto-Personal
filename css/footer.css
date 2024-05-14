@@ -1,0 +1,23 @@
+footer{
+    float: left;
+    width: 100%;
+    background-color: var(--primary-color-dark);
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    color: rgb(65, 67, 66);
+    font-size: 14px;
+    margin-top: 40px;
+}
+
+footer a{
+    color:  rgb(65, 67, 66);
+}
+
+footer a:hover{
+    color: var(gray-color);
+}
+
+footer div{
+    margin-bottom: 10px;
+}
